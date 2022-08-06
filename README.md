@@ -47,9 +47,7 @@
   <p>🧑‍🍳 Também sou formada em Gastronomia e tive meu próprio negócio dos 26 aos 33 anos;</p>
   <p>🐶 Sou casada e tenho dois doguíneos, Yoshi e Logan ❤️;</p>
 </div>
-<div>
-  <img src='https://github.com/KamilaMattos/KamilaMattos/blob/output/github-contribution-grid-snake.svg'/>
-</div>
+<img src='https://github.com/KamilaMattos/KamilaMattos/blob/output/github-contribution-grid-snake.svg'/>
 
 
 
