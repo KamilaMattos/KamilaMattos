@@ -37,18 +37,9 @@
   <a href='mailto:kamila_mattos@hotmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
   <a href='https://www.codewars.com/users/kamila_mattos' target='_blank'><img src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-    badge&logo=Codewars&logoColor=white'>
 </div>
-<div>
-  <h3>Um pouco sobre mim</h3>
-  <p>💻 Sou estudante de Desenvolvimento Web Full Stack, com o Front-end já finalizado.</p>
-  <p>🏡 Moro em Santo André - SP;</p>
-  <p>⏱️ Tenho 33 anos;</p>
-  <p>🧑‍💻 Atualmente estou buscando minha primeira oportunidade como desenvolvedora Front End Jr;</p>
-  <p>👩‍🏫 Sou formada em Pedagogia e trabalhei como estagiária e professora dos 14 aos 26 anos;</p>
-  <p>🧑‍🍳 Também sou formada em Gastronomia e tive meu próprio negócio dos 26 aos 33 anos;</p>
-  <p>🐶 Sou casada e tenho dois doguíneos, Yoshi e Logan ❤️;</p>
-</div>
+<div align='center'>
 <img src='https://github.com/KamilaMattos/KamilaMattos/blob/output/github-contribution-grid-snake.svg'/>
-
+</div>
 
 
 
