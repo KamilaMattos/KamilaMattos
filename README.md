@@ -25,7 +25,6 @@
   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height='35' width='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />      
   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
