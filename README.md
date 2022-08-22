@@ -1,4 +1,4 @@
-## Oieee! 👋 Eu sou a <Kamila!/>
+## Oieee! 👋 Eu sou a <Kamila/>
   <div align='center'>
     <h3>My GitHub Stats</h3>
     <img width='45%' height='180em' src='https://github-readme-stats.vercel.app/api?username=KamilaMattos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true'/>
