@@ -48,7 +48,7 @@
   <h3>Contato</h3>
   <a href='https://www.linkedin.com/in/kamilamattos/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
   <a href='https://portfolio-kamila-mattos.vercel.app/' target='_blank'><img src='https://img.shields.io/badge/Portfolio-See%20my%20personal%20portfolio-ff6e96?style=for-the-badge&logo=GoogleChrome'>
-    <a href='mailto:kamila_mattos@hotmail.com' target='_blank'><img src='https://img.shields.io/badge/Email-4285f4?style=for-the-badge&logo=microsoftoutlook&logoColor=white'>
+  <a href='mailto:kamila_mattos@hotmail.com' target='_blank'><img src='https://img.shields.io/badge/Email-4285f4?style=for-the-badge&logo=microsoftoutlook&logoColor=white'>
 </div>
 <div align='center'>
 <img src='https://github.com/KamilaMattos/KamilaMattos/blob/output/github-contribution-grid-snake.svg'/>
