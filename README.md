@@ -1,4 +1,4 @@
-## Oieee! 👋 Eu sou a Kamila!
+## Olá! 👋 Seja bem-vindo(a)!
   <div align='center'>
     <h3>My GitHub Stats</h3>
     <img width='45%' height='180em' src='https://github-readme-stats.vercel.app/api?username=KamilaMattos&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true'/>
@@ -12,7 +12,6 @@
   <img height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -20,6 +19,7 @@
   <img height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 
 <div align='center'>
