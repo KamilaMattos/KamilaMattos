@@ -1,5 +1,5 @@
-## Olá! 👋 Seja bem-vindo(a)!
   <div align='center'>
+    ## Olá! 👋 Seja bem-vindo(a)!
     <h3>My GitHub Stats</h3>
     <img width='45%' height='180em' src='https://github-readme-stats.vercel.app/api?username=KamilaMattos&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true'/>
     <img width='45%' height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=KamilaMattos&count_private=true&layout=compact&langs_count=16&theme=dracula&hide_border=true'/>
